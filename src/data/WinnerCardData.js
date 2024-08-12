@@ -1,0 +1,27 @@
+import image from '../assets/nft3.png'
+
+export const winnerCardData = {
+    // _id: '6303d1835b043207674d23a3',
+    name: 'Blvck Cards',
+    description: '',
+    price: '178.50',
+    nftType: 10,
+    timer: ' ',
+    nftImage: image,
+    owner: '0x33618B6B64Ef35c9d1c76758a83F00Fb5cAD95D2',
+    isParticipated: false,
+    participatedBy: [{}],
+    personName: [],
+    questions: [''],
+    specialRoleLimit: 1,
+    totalSupply: null,
+    totalSold: 1,
+    defaultRoleLimit: 1,
+    winnersCount: 1,
+    isAnounced: false,
+    winners: [],
+    allowAllToParticipate: true,
+    createdAt: '2022-08-22T18:57:07.930Z',
+    updatedAt: '2022-08-29T13:09:39.215Z',
+    __v: 0,
+}
